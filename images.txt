@@ -7,12 +7,12 @@ ghcr.io/home-assistant/aarch64-hassio-observer
 zigbee2mqtt/zigbee2mqtt-aarch64
 homeassistant/aarch64-addon-samba
 homeassistant/aarch64-addon-ssh
-ghcr.io/hassio-addons/uptime-kuma/aarch64
 ghcr.io/home-assistant/qemuarm-64-homeassistant
 ghcr.io/5high/aarch64-addon-aliyun-backup
 zigbee2mqtt/zigbee2mqtt-aarch64
 homeassistant/aarch64-addon-configurator 
-homeassistant/aarch64-addon-mosquitto ghcr.io/home-assistant/home-assistant
+homeassistant/aarch64-addon-mosquitto
+ghcr.io/home-assistant/home-assistant
 koenkk/zigbee2mqtt
 nodered/node-red
 renehezser/knxd
