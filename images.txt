@@ -17,4 +17,4 @@ homeassistant/aarch64-addon-mosquitto ghcr.io/home-assistant/home-assistant
 koenkk/zigbee2mqtt
 nodered/node-red
 renehezser/knxd
-eclipse-mosquitto:1.6.9
+eclipse-mosquitto
