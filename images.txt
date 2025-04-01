@@ -16,4 +16,4 @@ ghcr.io/home-assistant/home-assistant
 koenkk/zigbee2mqtt
 nodered/node-red
 renehezser/knxd
-eclipse-mosquitto
+eclipse-mosquitto:1.6.9
