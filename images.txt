@@ -6,7 +6,6 @@ ghcr.io/home-assistant/aarch64-hassio-audio
 ghcr.io/home-assistant/aarch64-hassio-observer
 zigbee2mqtt/zigbee2mqtt-aarch64
 homeassistant/aarch64-addon-samba
-ghcr.io/hassio-addons/node-red/aarch64
 homeassistant/aarch64-addon-ssh
 ghcr.io/hassio-addons/uptime-kuma/aarch64
 ghcr.io/home-assistant/qemuarm-64-homeassistant
