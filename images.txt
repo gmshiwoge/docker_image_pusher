@@ -12,8 +12,8 @@ ghcr.io/5high/aarch64-addon-aliyun-backup
 zigbee2mqtt/zigbee2mqtt-aarch64
 homeassistant/aarch64-addon-configurator 
 homeassistant/aarch64-addon-mosquitto
-ghcr.io/home-assistant/home-assistant
-koenkk/zigbee2mqtt
-nodered/node-red
-renehezser/knxd
-eclipse-mosquitto:1.6.9
+--platform=linux/arm64 ghcr.io/home-assistant/home-assistant
+--platform=linux/arm64 koenkk/zigbee2mqtt
+--platform=linux/arm64 nodered/node-red
+--platform=linux/arm64 renehezser/knxd
+--platform=linux/arm64 eclipse-mosquitto:1.6.9
