@@ -17,3 +17,5 @@ homeassistant/aarch64-addon-mosquitto
 --platform=linux/arm64 nodered/node-red
 --platform=linux/arm64 renehezser/knxd
 --platform=linux/arm64 eclipse-mosquitto:1.6.9
+--platform=linux/arm64 snowdreamtech/frpc
+
