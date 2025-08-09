@@ -4,6 +4,7 @@ ghcr.io/home-assistant/aarch64-hassio-multicast
 ghcr.io/home-assistant/aarch64-hassio-dns
 ghcr.io/home-assistant/aarch64-hassio-audio
 ghcr.io/home-assistant/aarch64-hassio-observer
+snowdreamtech/frpc
 zigbee2mqtt/zigbee2mqtt-aarch64
 homeassistant/aarch64-addon-samba
 homeassistant/aarch64-addon-ssh
