@@ -1,3 +1,4 @@
+ghcr.io/blakeblackshear/frigate:0.16.2
 --platform=linux/arm64 ghcr.io/home-assistant-libs/python-matter-server:stable
 --platform=linux/arm64 ghcr.io/t0bst4r/home-assistant-matter-hub:latest
 ghcr.io/home-assistant/aarch64-hassio-supervisor
