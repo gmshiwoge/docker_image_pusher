@@ -1,4 +1,4 @@
---platform=linux/arm64 budtmo/docker-android:emulator_13.0
+--platform=linux/amd64 budtmo/docker-android:emulator_13.0
 --platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
 cloudflare/cloudflared:latest
 --platform=linux/arm64 michelmu/knxd-docker:latest
